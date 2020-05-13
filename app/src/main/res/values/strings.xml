@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DictionaryApp</string>
+    <string-array name="word_array">
+        <item>" Combiner"</item>
+        <item>" Déontologie"</item>
+        <item>" Flageoler"</item>
+    </string-array>
+    <string-array name="def_array">
+        <item>"Combiner: Disposer ou organiser dans un certain ordre."</item>
+        <item>"Déontologie: Ensemble des règles et des devoirs qui régissent une profession."</item>
+        <item>"Flageoler: Trembler de fatigue,d'émotion."</item>
+    </string-array>
+</resources>

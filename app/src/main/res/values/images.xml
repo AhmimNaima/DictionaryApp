@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="images">
+        <item>@drawable/combiner</item>
+        <item>@drawable/deo</item>
+        <item>@drawable/flageoler</item>
+    </integer-array>
+</resources>
